@@ -16,7 +16,6 @@ I've been learning to code for about 3 years now. I have found that my passion i
 
 
 <p align="left">
-Skills
 C
 C#
 Git
