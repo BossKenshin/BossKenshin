@@ -16,20 +16,20 @@ I've been learning to code for about 3 years now. I have found that my passion i
 
 
 <p align="left">
-C
-C#
-Git
-Java
-JavaScript
-PHP
-HTML5
-JQuery
-CSS3
-TailwindCSS
-Bootstrap
-MySQL
-Laravel
-Photoshop
+C,
+C#,
+Git,
+Java,
+JavaScript,
+PHP,
+HTML5,
+JQuery,
+CSS3,
+TailwindCSS,
+Bootstrap,
+MySQL,
+Laravel,
+Photoshop,
 Illustrator
 </p>
 
