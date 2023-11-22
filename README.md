@@ -8,7 +8,7 @@ I've been learning to code for about 3 years now. I have found that my passion i
 
 * 🌍  I'm based in Cebu, Philippines
 * ✉️  You can contact me at [r.christianlawrence13@gmail.com](mailto:r.christianlawrence13@gmail.com)
-* 🧠  I'm learning Laravel Framework and Tailwind
+* 🧠  I'm learning Nodejs and RESTful API
 * 🤝  I'm open to collaborating on Web Project or Desktop
 * ⚡  I received the Special Distinction Award for Programmer of the Year upon graduation.
 
