@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Lawrence Perino Rosales
 =========================================================================================================================================================
 
-Web/Software Developer
+Application Developer
 ----------------------
 
 I've been learning to code for about 3 years now. I have found that my passion is coding. Mainly focuses on backend development but not limited, I can also do front-end. I have 2 year experience in Freelancing as Web/Software Developer. With a Bachelors Degree of Information Technology. I have constantly shown throughout my academic career that I have a great aptitude for problem-solving, attention to detail, and the capacity to work well both independently and in teams. My abilities in software development, debugging, and testing have improved as a result of my coursework and projects, ensuring the delivery of high-quality code.
