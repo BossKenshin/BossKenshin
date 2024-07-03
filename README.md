@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Application Developer
 ----------------------
 
-I've been learning to code for about 3 years now. I have found that my passion is coding. Mainly focuses on backend development but not limited, I can also do front-end. I have 2 year experience in Freelancing as Web/Software Developer. With a Bachelors Degree of Information Technology. I have constantly shown throughout my academic career that I have a great aptitude for problem-solving, attention to detail, and the capacity to work well both independently and in teams. My abilities in software development, debugging, and testing have improved as a result of my coursework and projects, ensuring the delivery of high-quality code.
+I graduated as 'Programmer of the Year' with a Bachelor's degree in BSIT and have accumulated 3 years of experience as a Freelance Software/Web Developer, along with a 6-month internship as a Software Engineer Intern. Currently, I am employed as an Application Developer at Virginia Food Inc., where I specialize in PHP, Laravel, MySQL, MSSQL, JavaScript, and C#. Throughout my career, I've demonstrated a passion for coding, focusing primarily on backend development while also proficient in front-end tasks. My academic background and professional experience have equipped me with strong problem-solving skills, attention to detail, and the ability to excel both independently and as part of a team, ensuring the delivery of robust and high-quality software solutions.
 
 * 🌍  I'm based in Cebu, Philippines
 * ✉️  You can contact me at [r.christianlawrence13@gmail.com](mailto:r.christianlawrence13@gmail.com)
@@ -27,9 +27,7 @@ JQuery,
 CSS3,
 Bootstrap,
 MySQL,
-Laravel,
-Photoshop,
-Illustrator
+Laravel
 </p>
 
 
