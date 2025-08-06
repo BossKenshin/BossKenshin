@@ -8,8 +8,8 @@ I graduated as 'Programmer of the Year' with a Bachelor's degree in BSIT and hav
 
 * 🌍  I'm based in Cebu, Philippines
 * ✉️  You can contact me at [r.christianlawrence13@gmail.com](mailto:r.christianlawrence13@gmail.com)
-* 🧠  I'm learning Nodejs and RESTful API
-* 🤝  I'm open to collaborating on Web Project or Desktop
+* 🧠  I'm learning Flutter Dart
+* 🤝  I'm open to collaborating on 
 * ⚡  I received the Special Distinction Award for Programmer of the Year upon graduation.
 
 ### Skills
