@@ -37,12 +37,4 @@ Application Developer
 <a href="https://github.com/BossKenshin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossKenshin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<a href="https://github.com/BossKenshin">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossKenshin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</a>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=BossKenshin&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-
-
 
