@@ -42,3 +42,7 @@ Application Developer
 </a>
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=BossKenshin&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+
+
+
