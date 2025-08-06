@@ -27,7 +27,9 @@ JQuery,
 CSS3,
 Bootstrap,
 MySQL,
-Laravel
+Laravel,
+Flutter,
+Dart
 </p>
 
 
