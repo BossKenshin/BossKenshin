@@ -3,34 +3,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Application Developer
 ----------------------
+👋 About Me
+🎓 I graduated with a Bachelor's degree in Information Technology (BSIT), receiving the Special Distinction Award for Programmer of the Year.
 
-I graduated as 'Programmer of the Year' with a Bachelor's degree in BSIT and have accumulated 3 years of experience as a Freelance Software/Web Developer, along with a 6-month internship as a Software Engineer Intern. Currently, I am employed as an Application Developer at Virginia Food Inc., where I work on Web, Android App, AWS. Throughout my career, I've demonstrated a passion for coding, focusing primarily on backend development while also proficient in front-end tasks. My academic background and professional experience have equipped me with strong problem-solving skills, attention to detail, and the ability to excel both independently and as part of a team, ensuring the delivery of robust and high-quality software solutions.
+👨‍💻 I have 3+ years of experience as a Freelance Software/Web Developer, along with a 6-month internship as a Software Engineer Intern.
 
-* 🌍  I'm based in Cebu, Philippines
-* ✉️  You can contact me at [r.christianlawrence13@gmail.com](mailto:r.christianlawrence13@gmail.com)
-* 🧠  I'm learning Flutter Dart
-* 🤝  I'm open to collaborating on 
-* ⚡  I received the Special Distinction Award for Programmer of the Year upon graduation.
+🏢 Currently, I work as an Application Developer at Virginia Food Inc., where I build and maintain Web Applications, Android Apps, and manage AWS infrastructure.
 
-### Skills
+🛠 I specialize in backend development, but I’m also proficient in front-end technologies and full-stack development.
 
+💡 I’m passionate about writing clean, efficient code and solving challenging problems. I value teamwork, attention to detail, and delivering high-quality software solutions.
 
-<p align="left">
-C,
-C#,
-Git,
-Java,
-JavaScript,
-PHP,
-HTML5,
-JQuery,
-CSS3,
-Bootstrap,
-MySQL,
-Laravel,
-Flutter,
-Dart
-</p>
+🌐 Location & Contact
+📍 Based in Cebu, Philippines
+
+📧 Email: r.christianlawrence13@gmail.com
+
+🤝 Open to collaborating on interesting projects or freelance opportunities
+
+🧠 Currently learning Flutter & Dart
+
+🚀 Tech Stack
+<div align="left"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /> </div>
 
 
 ### Socials
