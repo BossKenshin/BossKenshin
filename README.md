@@ -6,9 +6,7 @@ Application Developer
 👋 About Me
 🎓 I graduated with a Bachelor's degree in Information Technology (BSIT), receiving the Special Distinction Award for Programmer of the Year.
 
-👨‍💻 I have 3+ years of experience as a Freelance Software/Web Developer, along with a 6-month internship as a Software Engineer Intern.
-
-🏢 Currently, I work as an Application Developer at Virginia Food Inc., where I build and maintain Web Applications, Android Apps, and manage AWS infrastructure.
+💼 I completed a 6-month internship as a Software Engineer Intern and currently work as an Application Developer at Virginia Food Inc., where I develop and maintain Web Applications, Android Apps, and manage AWS infrastructure.
 
 🛠 I specialize in backend development, but I’m also proficient in front-end technologies and full-stack development.
 
